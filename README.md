@@ -14,7 +14,6 @@
 
 **Team Innovation Insurgents** · Team ID 144769 · SPIT, Mumbai
 
-[Live Demo](#) · [Project Report](#) · [Demo Video](#)
 
 </div>
 
